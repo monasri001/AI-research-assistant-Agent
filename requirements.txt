@@ -1,4 +1,9 @@
 crewai
 crewai-tools
+langchain
+langchain-community
+litellm
 python-dotenv
+fastapi
+uvicorn
 streamlit
