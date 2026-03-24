@@ -1,3 +1,3 @@
-# ai-research-assistant
+# ai-research
 
 
